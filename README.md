@@ -1,4 +1,3 @@
-![Lumen Demo](lumen.gif)
 
 # 💫 About Me:
 Hello my name is Alexander, a passionate photographer, student and a coder In grade 7 who enjoys in capturing memorable and compelling moments. I  like experimenting with different perspectives, experimenting with composition and light, and turning everyday scenes into visually appealing portrait and landscape photographs. In my spare time, I have fun coding random things that help me and anyone in the world and posting it to Github!
